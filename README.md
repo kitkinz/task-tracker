@@ -1,4 +1,4 @@
-Project URL: https://github.com/kitkinz/task-tracker<br />
+Project URL: [https://github.com/kitkinz/task-tracker](https://roadmap.sh/projects/task-tracker)<br />
 📝 Task Tracker Console App<br />
 A simple C# console application for managing your personal tasks with CRUD operations and status tracking.
 
