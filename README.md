@@ -3,12 +3,12 @@ Project URL: https://roadmap.sh/projects/task-tracker<br />
 A simple C# console application for managing your personal tasks with CRUD operations and status tracking.
 
 🚀 Features<br />
-Add new tasks with a name
-Update task names
-Delete tasks
-Mark tasks as todo, in-progress, or done
-List all tasks or filter by status
-Command-based text interface
+Add new tasks with a name<br />
+Update task names<br />
+Delete tasks<br />
+Mark tasks as todo, in-progress, or done<br />
+List all tasks or filter by status<br />
+Command-based text interface<br />
 
 🧑‍💻 How to Use<br />
 When the app starts, you’ll be prompted to enter a command.
